@@ -10,11 +10,11 @@ This repository contains a comprehensive report and source codes for various Pyt
 - **University:** Kaziranga University
 
 ## 📂 Contents
-1. Arithmetic & Quadratic Operations
-2. Linear Equation Solver
-3. Graphical Representations using Matplotlib
-4. Function Implementations: Factorial, Fibonacci, Area of Circle
-5. GUI Project: Memory Flash Game using Tkinter
+1. Q1 (Arithmetic & Quadratic Operations)
+2. Q2 (Linear Equation Solver)
+3. Q3 (Graphical Representations using Matplotlib)
+4. Q4 (Function Implementations: Factorial, Fibonacci, Area of Circle)
+5. Q5 (GUI Project: Memory Flash Game using Tkinter)
 6. 📄 Final Report (PDF)
 
 ## 🧾 Report
